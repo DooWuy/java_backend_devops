@@ -12,6 +12,8 @@ Client:
 ```
 
 ![[image-2.png|570]]
+![img.png](img.png)
+
 
 ## **Nhiệm vụ 2: Khởi chạy Cơ sở dữ liệu bằng Docker**
 ```bash
