@@ -48,9 +48,11 @@ doquochuy@doquochuy:~$
 ```
 
 ![[image-3.png|708]]
+![img_1.png](img_1.png)
 
 ## **Nhiệm vụ 3: Tải Mã nguồn và Biên dịch Ứng dụng**
 ![[image-4.png]]
+![img_2.png](img_2.png)
 
 ```bash
 doquochuy@doquochuy:~$ cd ~/workspace
@@ -81,7 +83,7 @@ total 49712
 ```
 
 ![[image-5.png]]
-
+![img_3.png](img_3.png)
 
 ## **Nhiệm vụ 4: Khởi chạy và Kết nối Ứng dụng**
 ```bash
@@ -94,5 +96,6 @@ java -jar build/libs/java_backend_devops-0.0.1-SNAPSHOT.jar
 ```
 
 ![[image-6.png]]
-
+![img_4.png](img_4.png)
 ![[image-7.png]]
+![img_5.png](img_5.png)
